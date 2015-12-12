@@ -1,0 +1,9 @@
+C:\Users\jonat\Documents\Visual Studio 2013\Projects\PetWorld\PetWorld\bin\Debug\PetWorld.exe.config
+C:\Users\jonat\Documents\Visual Studio 2013\Projects\PetWorld\PetWorld\bin\Debug\PetWorld.exe
+C:\Users\jonat\Documents\Visual Studio 2013\Projects\PetWorld\PetWorld\bin\Debug\PetWorld.pdb
+C:\Users\jonat\Documents\Visual Studio 2013\Projects\PetWorld\PetWorld\obj\Debug\PetWorld.csprojResolveAssemblyReference.cache
+C:\Users\jonat\Documents\Visual Studio 2013\Projects\PetWorld\PetWorld\obj\Debug\PetWorld.Properties.Resources.resources
+C:\Users\jonat\Documents\Visual Studio 2013\Projects\PetWorld\PetWorld\obj\Debug\PetWorld.View.frmGenerico.resources
+C:\Users\jonat\Documents\Visual Studio 2013\Projects\PetWorld\PetWorld\obj\Debug\PetWorld.csproj.GenerateResource.Cache
+C:\Users\jonat\Documents\Visual Studio 2013\Projects\PetWorld\PetWorld\obj\Debug\PetWorld.exe
+C:\Users\jonat\Documents\Visual Studio 2013\Projects\PetWorld\PetWorld\obj\Debug\PetWorld.pdb
