@@ -7,7 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+using PetWorld.Model;
+using PetWorld.Controller;
 namespace PetWorld.View
 {
     public partial class frmGenerico : Form
@@ -16,6 +17,11 @@ namespace PetWorld.View
         {
             InitializeComponent();
         }
+        private void frmGenerico_Load(object sender, EventArgs e)
+        {
+
+        }
+
 
         #region Controle Panel
         private void btFechar_MouseEnter(object sender, EventArgs e)
@@ -94,15 +100,16 @@ namespace PetWorld.View
 
 
 
-        private void frmGenerico_Load(object sender, EventArgs e)
-        {
-
-        }
-
+       
         private void btFechar_Click(object sender, EventArgs e)
         {
             this.Close();
 
+        }
+
+        private void btSalvar_Click(object sender, EventArgs e)
+        {
+          
         }
 
 

@@ -44,6 +44,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Controller\ctrlSalvar.cs" />
     <Compile Include="Model\Banco.cs" />
     <Compile Include="Model\Configuracao.cs" />
     <Compile Include="Model\mdlGenerico.cs" />
@@ -87,9 +88,7 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Controller\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <None Include="Resources\save.png" />
   </ItemGroup>

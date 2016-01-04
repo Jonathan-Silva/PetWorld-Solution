@@ -7,3 +7,6 @@ C:\Users\jonat\Documents\Visual Studio 2013\Projects\PetWorld\PetWorld\obj\Debug
 C:\Users\jonat\Documents\Visual Studio 2013\Projects\PetWorld\PetWorld\obj\Debug\PetWorld.csproj.GenerateResource.Cache
 C:\Users\jonat\Documents\Visual Studio 2013\Projects\PetWorld\PetWorld\obj\Debug\PetWorld.exe
 C:\Users\jonat\Documents\Visual Studio 2013\Projects\PetWorld\PetWorld\obj\Debug\PetWorld.pdb
+C:\Projetos\Solution\PetWorld-Solution\PetWorld\bin\Debug\PetWorld.exe.config
+C:\Projetos\Solution\PetWorld-Solution\PetWorld\obj\Debug\PetWorld.exe
+C:\Projetos\Solution\PetWorld-Solution\PetWorld\obj\Debug\PetWorld.pdb

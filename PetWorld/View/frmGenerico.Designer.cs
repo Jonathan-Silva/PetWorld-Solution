@@ -224,6 +224,7 @@
             this.btSalvar.Text = "Salvar";
             this.btSalvar.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btSalvar.UseVisualStyleBackColor = false;
+            this.btSalvar.Click += new System.EventHandler(this.btSalvar_Click);
             this.btSalvar.MouseEnter += new System.EventHandler(this.btSalvar_MouseEnter);
             this.btSalvar.MouseLeave += new System.EventHandler(this.btSalvar_MouseLeave);
             // 
